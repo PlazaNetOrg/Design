@@ -14,7 +14,7 @@ PlazaNet is built around **friendly blues** and **clean whites** to create a pla
 ### Primary Blue
 - Used in the logo, titles/headers, action buttons, and interactive accents.
 ### Secondary Blue
-- Used for hover, secondary highlights, and gradients.
+- Used in the logo, for hover, secondary highlights, and gradients.
 ### Blue-tinted White
 - Main background.
 - Creates a cozy, Nintendo-like environment.
