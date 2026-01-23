@@ -3,14 +3,14 @@ PlazaNet is built around **friendly blues** and **deep, cozy darks** to create a
 
 ## Core Palette
 
-| Name                  | Hex       | Usage                                                                 | Preview                                                                 |
-|---|---|---|---|
-| **Primary Blue**      | `#3A9FF1` | Main brand color — titles, primary buttons, icons, active states      | ![Primary](https://img.shields.io/badge/Primary-%233A9FF1?style=for-the-badge) |
-| **Secondary Blue**    | `#64B7FF` | Accent & hover — links, highlights, gradients, selected items         | ![Secondary](https://img.shields.io/badge/Secondary-%2364B7FF?style=for-the-badge) |
-| **Dark Surface**      | `#0F172A` | Main background — cozy, restful base for the entire app               | ![Dark Surface](https://img.shields.io/badge/Dark%20Surface-%230F172A?style=for-the-badge) |
-| **Elevated Surface**  | `#1E293B` | Cards, posts, modals, drawers, input fields — gentle layering         | ![Elevated Surface](https://img.shields.io/badge/Elevated%20Surface-%231E293B?style=for-the-badge) |
-| **Text Primary**      | `#F1F5F9` | Main body text — usernames, post content, display names               | ![Text Primary](https://img.shields.io/badge/Text%20Primary-%23F1F5F9?style=for-the-badge) |
-| **Text Secondary**    | `#94A3B8` | Subtle text — timestamps, descriptions, muted icons, secondary info   | ![Text Secondary](https://img.shields.io/badge/Text%20Secondary-%2394A3B8?style=for-the-badge) |
+| Name | Hex | RGB | Usage | Preview |
+| --- | --- | --- | --- | --- |
+| **Primary Blue** | `#3A9FF1` | `58, 159, 241` | Main brand color — titles, primary buttons, icons, active states | ![Primary](https://img.shields.io/badge/Primary-%233A9FF1?style=for-the-badge) |
+| **Secondary Blue** | `#64B7FF` | `100, 183, 255` | Accent & hover — links, highlights, gradients, selected items | ![Secondary](https://img.shields.io/badge/Secondary-%2364B7FF?style=for-the-badge) |
+| **Dark Surface** | `#0F172A` | `15, 23, 42` | Main background — cozy, restful base for the entire app | ![Dark Surface](https://img.shields.io/badge/Dark%20Surface-%230F172A?style=for-the-badge) |
+| **Elevated Surface** | `#1E293B` | `30, 41, 59` | Cards, posts, modals, drawers, input fields — gentle layering | ![Elevated Surface](https://img.shields.io/badge/Elevated%20Surface-%231E293B?style=for-the-badge) |
+| **Text Primary** | `#F1F5F9` | `241, 245, 249` | Main body text — usernames, post content, display names | ![Text Primary](https://img.shields.io/badge/Text%20Primary-%23F1F5F9?style=for-the-badge) |
+| **Text Secondary** | `#94A3B8` | `148, 163, 184` | Subtle text — timestamps, descriptions, muted icons, secondary info | ![Text Secondary](https://img.shields.io/badge/Text%20Secondary-%2394A3B8?style=for-the-badge) |
 
 ## Color Roles
 
