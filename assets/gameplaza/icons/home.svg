@@ -13,31 +13,39 @@
   <defs
      id="defs1">
     <linearGradient
-       id="linearGradient1">
+       id="linearGradient3">
       <stop
-         style="stop-color:#00ff96;stop-opacity:1;"
+         style="stop-color:#48c9b0;stop-opacity:1;"
          offset="0"
-         id="stop1" />
+         id="stop3" />
       <stop
-         style="stop-color:#00ffc8;stop-opacity:1;"
+         style="stop-color:#76ffcb;stop-opacity:1;"
          offset="1"
-         id="stop2" />
+         id="stop4" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient1"
-       id="linearGradient2"
-       x1="120.24361"
-       y1="391.36447"
-       x2="391.81558"
-       y2="119.79247"
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="120.18723"
+       y1="391.81964"
+       x2="391.81653"
+       y2="120.19036"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient3"
+       id="linearGradient5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.94814312,0,0,0.94623051,13.249155,14.168619)" />
+       x1="120.18723"
+       y1="391.81964"
+       x2="391.81653"
+       y2="120.19036" />
   </defs>
   <g
-     id="layer1">
+     id="layer1"
+     style="stroke:url(#linearGradient4)">
     <path
        id="rect1"
-       style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient2);stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:normal"
+       style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient5);stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:normal"
        d="M 256.00162,73.934492 73.929557,256.37574 h 60.682823 v 181.69938 h 242.7079 V 256.37574 h 60.7539 z" />
   </g>
 </svg>
